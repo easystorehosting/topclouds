@@ -1,0 +1,227 @@
+Alterian
+Auersoft
+Clickability
+Content Management AG
+CrownPeak
+EpiServer
+Eprise (SilkRoad Technology)
+Hyland
+IBM
+NetReach
+Open Text
+PaperHost
+PaperThin
+SpringCM
+Treeno Software
+AccessData
+Anacomp
+Autonomy
+Case Central
+Commvault
+Epiq Systems
+FTI
+Huron Consulting
+Iron Mountain
+KCura
+LexisNexis
+Renew Data
+Summation
+Google
+HP
+IBM
+Microsoft Search — Atomz
+SLI Systems
+Team collaboration — DesignLinks International
+EMC
+Grove Technologies
+Huddle/Ninian Solutions
+IntraLinks
+Jive Software
+TeamSpace
+Web conferencing — Adobe
+AT&T
+Cisco
+Citrix
+IBM
+InterCall (Genesys Conferencing)
+Microsoft
+NetViewer
+CRM
+Sales — Access Commerce
+ATG
+Callidus
+BigMachines
+CDC Software
+Demandware
+Firepond
+Imano
+Involve Technology
+Kadient
+Microsoft Dynamics CRM
+NetSuite
+Oracle CRM On Demand
+Sage
+salesforce.com
+SAP
+SugarCRM,Venda
+Xactly
+Zoho
+Marketing — Alterian
+Aprimo
+Assetlink
+Elateral
+ExactTarget
+Coremetrics
+Genalytics
+L-Soft
+Lyris
+Marketingisland
+Microsoft Dynamics CRM
+Neolane
+NetSuite
+Responsys
+RightNow Technologies
+SAP
+SAS Institute
+Silverpop
+Unica
+Customer service and support — AIM Technology
+Confirmit
+eGain
+Enkata
+HardMetrics
+InStranet
+InVision
+Knowledge Solutions
+Merced Systems
+Oracle
+Parature
+RightNow Technologies
+salesforce.com
+SAP
+Teleopti
+TOA Technologies
+DCC
+Adobe
+Corel
+Google
+Microsoft
+Avid
+Yahoo
+Paint.NET
+Serif
+ERP
+Human capital management — CornerStpne on Demand
+CyberShift
+Infor (Workbrain)
+Kenexa
+Saba
+SilkRoad
+Softscape
+Sonar 6
+SuccessFactors
+Taleo
+Ultimate Software
+VirtualEdge
+Workday
+Workscape
+Financial management systems — FinancialForce,com
+Intaact
+Exact Online
+NetSuite
+SAP (Business ByDesign)
+Twinfield
+Workday
+Manufacturing & Operations — Plex Systems
+NetSuite
+SAP (Business ByDesign)
+Office Suites
+Adobe
+AdventNet
+Ajax13
+Approver.com
+Corel
+ExpressO
+Google
+iNetOffice
+Microsoft
+Open Source Software Institute
+Peepel Technology
+Sheetster
+Simple Groupware Solutions
+Smartsheet.com
+Software Garden
+Team and Concepts
+ThinkFree
+TrimPath
+Vyew
+@Task
+Atlantic Global
+Augeo
+CA
+Clarizen
+Compuware
+Daptive
+Element Software
+EPM
+Genis Inside
+HyperOffice
+Innotas
+Instantis
+OpenAir
+Planview
+PowerSteering
+Project Inverision
+Project.net
+ProjectPlace
+Qtask
+Severa
+Skire.com
+Tenrox and VCS Online.
+SCM
+Sourcing/procurement — Ariba
+Emptoris
+Ketera
+Procuri
+Quadrem
+Supply and demand chain planning — E2open
+Elemica
+Agentrics
+BetweenMarkets
+Kinaxis
+Warehouse management — Accellos
+SmartTurn (RedPrairie)
+Transportation management — BridgePoint
+Descartes
+GT Nexus
+Log-Net
+Management Dynamics/BridgePoint
+TradeBeam
+SPP — MCA Solutions
+Servigistics
+Others
+Expense management — Cerylion
+Invoice Insight
+Compliance management — Axentis (Wolters Kluwer)
+BI International
+Paisley (Thomson Reuters)
+E-learning — ACS Learning Services
+GeoLearning
+Global Scholar
+Learn.com
+Mzinga
+NIIT
+OutStart
+Plateau Systems
+Saba
+SumTotal
+Instant messaging — FaceTime Communications
+Google
+Jabber
+MessageLabs (Symantec)
+Disaster management — Send Word Now Data cleansing — HyperQuality Business intelligence — LucidEra Data integration — Informatica
+Hubspace Business process management — Appian
+Savvion Storage — Amazon
+Google
+Symantec
+Retail management — DigiPoS Store Solutions Healthcare management — TriZetto Physical security management — CrimeReports
