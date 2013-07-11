@@ -88,10 +88,10 @@ foreach $t (1..20) {
 	print $site,"\t",$top10000{$site},"\t\t",$servers10000{$site}{apache},"\t",$servers10000{$site}{microsoft},"\t",$servers10000{$site}{nginx},"\t",$servers10000{$site}{others},"\n"; 
 }
 	
-print "\n\t100000\t\tapache\tmicrosoft\tnginx\tothers\n";
+print "\n\t100\t1000\t5000\t10000\t50000\t100000\t\tapache\tmicrosoft\tnginx\tothers\n";
 foreach $t (1..20) {
 	$site = $top100000[$t];
-	print $site,"\t",$top100000{$site},"\t\t",$servers100000{$site}{apache},"\t",$servers100000{$site}{microsoft},"\t",$servers100000{$site}{nginx},"\t",$servers100000{$site}{others},"\n"; 
+	print $site,"\t",$top100{$site},"\t",$top1000{$site},"\t",$top5000{$site},"\t",$top10000{$site},"\t",$top50000{$site},"\t",$top100000{$site},"\t\t",$servers100000{$site}{apache},"\t",$servers100000{$site}{microsoft},"\t",$servers100000{$site}{nginx},"\t",$servers100000{$site}{others},"\n"; 
 }
 	
 print "\n\t500000\t\tapache\tmicrosoft\tnginx\tothers\n";
@@ -107,3 +107,20 @@ print "\n\n\t100\t1000\t5000\t10000\t50000\t100000\t500000\t\tapache\tmsft\tngin
 foreach $t (@top500000[1..20], "savvis.net", "att.net", "terremark.com", "verizonbusiness.com", "appengine.google.com", "venyu.com", "intermedia.net", "datapipe.com", "fusionstorm.com", "iland.com") {
 	if ($t !~ /^\s*$/) { print "$t\t",$top100{$t},"\t",$top1000{$t},"\t",$top5000{$t},"\t",$top10000{$t},"\t",$top50000{$t},"\t",$top100000{$t},"\t",$top500000{$t},"\t\t",$servers{$t}{apache},"\t",$servers{$t}{microsoft},"\t",$servers{$t}{nginx},"\t",$servers{$t}{others},"\n"; }
 }
+
+print "\n\t100\t1000\t5000\t10000\t50000\t100000\t\tapache\tmicrosoft\tnginx\tothers\n";
+foreach $t (1..20) {
+	$site = $top100000[$t];
+	$tc100 = $top100{$site};
+	$tc1000 = $top1000{$site} - $top100{$site};
+	$tc5000 = $top5000{$site} - $top1000{$site};
+	$tc10000 = $top10000{$site} - $top5000{$site};
+	$tc50000 = $top50000{$site} - $top10000{$site};
+	$tc100000 = $top100000{$site} - $top50000{$site};
+
+
+
+
+	print '{ "name": "',$site,'","values": [ ',$tc100,", ",$tc1000,", ",$tc5000,", ",$tc10000,", ",$tc50000,", ",$tc100000," ] },\n";
+}
+	
